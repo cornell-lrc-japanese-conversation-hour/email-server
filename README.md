@@ -15,12 +15,12 @@
 1. Install Python 3.10+
 2. Install pip
 3. In the root directory, create a virtual environment with `python3 -m venv venv`
-4. Activate the environment with `. venv/bin/activate`
+4. Activate the environment with `source venv/bin/activate`
 5. Install deps with `pip3 install requirements.txt`
 
 ### Starting/using server
 
-1. Activate virtual environment with `. venv/bin/activate`
+1. Activate virtual environment with `source venv/bin/activate`
 2. In terminal 1, start the server with `python3 app.py`
 3. In terminal 2, activate venv and run the client script with `python3 scripts/send_custom.py`
 4. Follow the prompts in `send_custom.py`
