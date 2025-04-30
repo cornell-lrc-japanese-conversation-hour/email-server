@@ -2,7 +2,7 @@
 
 ## Secret info
 
-* Retrieve `.env` file over LINE/email and move into root directory
+* Ask for `.env` file and move to root directory
 * Retrieve recipient lists and store in `jpch_data/recipients`
 * Make sure not to push the `.env` file to Github (if you do by accident, change the password)
 
